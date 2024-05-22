@@ -1,0 +1,1 @@
+The paper "Demo: P4 Based In-network ML with Federated Learning to Secure and Slice IoT Networks" has been accepted in IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2024)
